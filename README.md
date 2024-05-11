@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andreeeiii08</h1>
 <h3 align="center">A junior Developer eager to learn and grow</h3>
 
-- 🌱 I’m currently learning **Java POO** and **SQL**.
+- 🌱 I’m currently learning **Java OOP** and **SQL**.
 
 <h3 align="left">Languages and tools:</h3>
 <p align="left">
